@@ -14,3 +14,4 @@
 - `docker create -p'puerto-maquina-fisica':'puerto-mapear' --name 'nombre' 'imagen'` - Crear un contenedor con un puerto mapeado.
 - `docker logs --follow 'name'` - Verificar si se ejecuto de manera correcta.
 - `docker run 'imagen'` - Forma mas rapida para descargar la imagen, crear el contenedor e iniciar.
+- `docker run -d 'imagen'` - Forma mas rapido pero sin mostrar los logs.
