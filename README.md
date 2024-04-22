@@ -15,3 +15,7 @@
 - `docker logs --follow 'name'` - Verificar si se ejecuto de manera correcta.
 - `docker run 'imagen'` - Forma mas rapida para descargar la imagen, crear el contenedor e iniciar.
 - `docker run -d 'imagen'` - Forma mas rapido pero sin mostrar los logs.
+
+## Dockerizar un proyecto
+
+- Crear un archivo con el nombre `Dockerfile` en la raiz del proyecto.
