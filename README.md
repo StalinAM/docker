@@ -19,3 +19,4 @@
 ## Dockerizar un proyecto
 
 - Crear un archivo con el nombre `Dockerfile` en la raiz del proyecto.
+- `FROM`
